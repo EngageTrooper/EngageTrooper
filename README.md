@@ -38,8 +38,8 @@ Skills: Python/C#/C++/Unity/Unreal Engine/Blender3D/Reallusion3D/Adobe AfterEffe
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EngageTrooper&show_icons=true&locale=en&layout=compact" alt="EngageTrooper" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mickeyfying&show_icons=true&locale=en" alt="EngageTrooper" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EngageTrooper&show_icons=true&locale=en" alt="EngageTrooper" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mickeyfying&" alt="EngageTrooper" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EngageTrooper&" alt="EngageTrooper" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EngageTrooper)  
