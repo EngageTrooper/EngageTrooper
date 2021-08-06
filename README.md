@@ -19,7 +19,7 @@ Skills: Python/C#/C++/Unity/Unreal Engine/Blender3D/Reallusion3D/Adobe AfterEffe
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mickeyfying" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mickeyfying" height="30" width="40" /></a>
+<a href="https://dev.to/EngageTrooper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="EngageTrooper" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivam-singh-139274187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-singh-139274187" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mickeyfying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mickeyfying" height="30" width="40" /></a>
 <a href="https://instagram.com/mickeyfying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mickeyfying" height="30" width="40" /></a>
@@ -35,7 +35,7 @@ Skills: Python/C#/C++/Unity/Unreal Engine/Blender3D/Reallusion3D/Adobe AfterEffe
 
 ![GitHub metrics](https://metrics.lecoq.io/EngageTrooper)  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mickeyfying&show_icons=true&locale=en&layout=compact" alt="EngageTrooper" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EngageTrooper&show_icons=true&locale=en&layout=compact" alt="EngageTrooper" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mickeyfying&show_icons=true&locale=en" alt="EngageTrooper" /></p>
