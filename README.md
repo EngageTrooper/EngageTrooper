@@ -1,7 +1,7 @@
 ### Hi there 👋, My Name is Shivam Singh
 #### Game Developer, UI Designer, Top-Notch Video Editor, Professional Animator
 
-![](images/shivam.png)
+![](images/mickeyfying.png)
 Skills: Python/C#/C++/Unity/Unreal Engine/Blender3D/Reallusion3D/Adobe AfterEffects/Adobe PremierePro/DaVinciResolve/Adobe Illustrator/Adobe Animate
 
 - 🔭 I’m currently working on developing mickeyfying-studios 
