@@ -3,8 +3,7 @@
 
 ![shivam_singh](https://photos.google.com/share/AF1QipO7dQfmy2zuLqFRssrOxHb5R6ueuTHNtvK6iESdImvPTlZU4AQD6B_MclIQ0wrzHQ/photo/AF1QipNjCiOUxgiJC1wn21VTIOTyBIkeoNCAJYI4-v_h?key=TXZhVVZhOE9BelZqZzNVZjluNGF3NS0tZzFvb253)
 
-I am an Aspiring Game Developer, Everyday Learning Something New which adds value to my Life in the Long Term, Currently developing mickeyfying_studios
-
+![](images/shivamsingh.png)
 Skills: Python/C#/C++/Unity/Unreal Engine/Blender3D/Reallusion3D/Adobe AfterEffects/Adobe PremierePro/DaVinciResolve/Adobe Illustrator/Adobe Animate
 
 - 🔭 I’m currently working on developing mickeyfying-studios 
