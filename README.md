@@ -3,7 +3,7 @@
 
 ![shivam_singh](https://photos.google.com/share/AF1QipO7dQfmy2zuLqFRssrOxHb5R6ueuTHNtvK6iESdImvPTlZU4AQD6B_MclIQ0wrzHQ/photo/AF1QipNjCiOUxgiJC1wn21VTIOTyBIkeoNCAJYI4-v_h?key=TXZhVVZhOE9BelZqZzNVZjluNGF3NS0tZzFvb253)
 
-![](images/shivamsingh.png)
+![](images/shivam.png)
 Skills: Python/C#/C++/Unity/Unreal Engine/Blender3D/Reallusion3D/Adobe AfterEffects/Adobe PremierePro/DaVinciResolve/Adobe Illustrator/Adobe Animate
 
 - 🔭 I’m currently working on developing mickeyfying-studios 
